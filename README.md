@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YurInkognito
 - 👀 I’m interested in learning new things, and make friends.
-- 🌱 I’m currently learning R, java, javascript, C, C++.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning something i have interthing of.
+- 💞️ I’m looking to collaborate on everyone who want to help.
 - 📫 How to reach me ...
 
 <!---
